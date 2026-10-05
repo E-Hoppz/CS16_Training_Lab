@@ -1,0 +1,11 @@
+cstrike.wad
+decals.wad
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/desertft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga
+halflife.wad
+jos.wad
+sprites/flare1.spr

@@ -1,0 +1,14 @@
+cstrike.wad
+decals.wad
+gfx/env/doom1bk.tga
+gfx/env/doom1dn.tga
+gfx/env/doom1ft.tga
+gfx/env/doom1lf.tga
+gfx/env/doom1rt.tga
+gfx/env/doom1up.tga
+halflife.wad
+overviews/de_aztec_cs15.bmp
+overviews/de_aztec_cs15.txt
+sound/ambience/crickets.wav
+sound/ambience/thunder_clap.wav
+sprites/lgtning.spr

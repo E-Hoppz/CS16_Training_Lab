@@ -1,0 +1,16 @@
+cstrike.wad
+de_aztec.wad
+decals.wad
+gfx/env/DrkGbk.tga
+gfx/env/DrkGdn.tga
+gfx/env/DrkGft.tga
+gfx/env/DrkGlf.tga
+gfx/env/DrkGrt.tga
+gfx/env/DrkGup.tga
+halflife.wad
+sound/ambience/crickets.wav
+sound/ambience/hawk1.wav
+sound/ambience/quail1.wav
+sound/ambience/thunder_clap.wav
+sound/ambience/wren1.wav
+sprites/lgtning.spr

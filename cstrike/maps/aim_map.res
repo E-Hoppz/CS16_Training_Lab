@@ -1,0 +1,13 @@
+maps/aim_map.res
+sound/misc/multikill.wav
+sound/misc/ultrakill.wav
+sound/misc/killingspree.wav
+sound/misc/monsterkill.wav
+sound/misc/ultrakill.wav
+sound/misc/headshot.wav
+sound/misc/firstblood.wav
+sound/misc/ho1.wav
+sound/misc/link2.wav
+sound/misc/godlike.wav
+sound/misc/whatthehell.wav
+sound/misc/bendovr.wav

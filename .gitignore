@@ -1,0 +1,30 @@
+# Ignore Base Game Folders
+/valve/
+/valve_hd/
+/cstrike_hd/
+/cstrike_downloads/
+/platform/
+/htmlcache/
+
+# Ignore Engine Binaries and Logs
+*.dll
+*.exe
+*.asi
+*.log
+*.lnk
+*.txt
+!/training_lab_master_plan.md
+
+# Ignore Aider History
+.aider*
+
+# Ignore Heavy Game Assets inside cstrike
+/cstrike/models/
+/cstrike/sound/
+/cstrike/sprites/
+/cstrike/media/
+/cstrike/gfx/
+/cstrike/*.wad
+/cstrike/*.pak
+/cstrike/*.dem
+/cstrike/*.sav

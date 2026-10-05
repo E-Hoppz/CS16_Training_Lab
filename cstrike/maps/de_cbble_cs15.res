@@ -1,0 +1,12 @@
+cs_cbble.wad
+decals.wad
+gfx/env/duskbk.tga
+gfx/env/duskdn.tga
+gfx/env/duskft.tga
+gfx/env/dusklf.tga
+gfx/env/duskrt.tga
+gfx/env/duskup.tga
+halflife.wad
+overviews/de_cbble_cs15.bmp
+overviews/de_cbble_cs15.txt
+sprites/smoke.spr
